@@ -19,7 +19,7 @@ uvx --from git+https://github.com/Gentech-Labs/genTech-agent-kit.git gentech-kit
 | **[programmable-money-x402](https://github.com/Gentech-Labs/programmable-money-x402)** | x402 payment gateway on Arc — pay-per-call APIs with spend policies and on-chain settlement |
 | **[solana-agent-security](https://github.com/Gentech-Labs/solana-agent-security)** | Drain detection and transaction risk analysis for agents that hold keys |
 | **[mantle-turing-test](https://github.com/Gentech-Labs/mantle-turing-test)** | Agentic wallet economy — autonomous agents that hold, size and settle capital on-chain |
-| **[midnight-confidential-agent-payments](https://github.com/Gentech-Labs/midnight-confidential-agent-payments)** | Confidential payments for agents — what a payment rail looks like when the amount is private |
+| **[midnight-confidential-agent-payments](https://github.com/GentechLabs/midnight-confidential-agent-payments)** | Confidential payments for agents — what a payment rail looks like when the amount is private |
 
 ---
 
